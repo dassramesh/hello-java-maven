@@ -11,7 +11,7 @@ Simple Java Maven "Hello, Jenkins + Maven!" project for TASK 8 DEV.
    ```powershell
    mvn clean package
    ```
-3. JAR will be in `target/` (example: `target/hello-1.0-SNAPSHOT.jar`).
+3. JAR will be in `target/'.
 
 ## For Jenkins (quick steps)
 1. Push this repo to GitHub.
